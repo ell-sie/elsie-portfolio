@@ -159,6 +159,11 @@ header .follow a:hover{
     header.active{
         left: 0%;
     }
+
+    .cursor-1,
+    .cursor-2{
+        display: none;
+    }
 }
 
 @media (max-width:450px){
